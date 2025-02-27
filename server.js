@@ -103,3 +103,5 @@ app.delete('/cars/:placa', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Servidor rodando na porta ${PORT}`);
 });
+
+// "pesquisei algumas funções no Google para deixar meu projeto um pouco mais fácil de desenvolver e usar, mas entendi como todas elas funcionam
