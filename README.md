@@ -6,7 +6,7 @@ npm init -y
 ```
 npm install express cors dotenv mysql2
 ```
-Agora para iniciar o servidor use o:
+Para iniciar o servidor use o:
 ```
 node server.js
 ```
